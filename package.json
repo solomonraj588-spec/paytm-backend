@@ -1,0 +1,8 @@
+﻿{
+  "name": "paytm-backend",
+  "version": "1.0.0",
+  "description": "Paytm txnToken generator for Thiraipulli 2K Gaming Lounge",
+  "dependencies": {
+    "paytmchecksum": "^1.5.0"
+  }
+}
